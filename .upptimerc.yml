@@ -30,7 +30,9 @@ sites:
 
   # musiqueapproximative.net
   - name: musiqueapproximative.net
-    url: https://www.musiqueapproximative.nets
+    url: https://www.musiqueapproximative.net
+  - name: musiqueapproximative.net - quickoschantenoel
+    url: https://quickoschantenoel.musiqueapproximative.net
   - name: musiqueapproximative.net - radio
     url: https://radio.musiqueapproximative.net
 
