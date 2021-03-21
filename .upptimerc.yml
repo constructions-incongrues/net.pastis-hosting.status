@@ -35,6 +35,8 @@ sites:
     url: https://data.musiques-incongrues.net
   - name: musiques-incongrues.net - manager2000
     url: https://manager2000.musiques-incongrues.net
+    expectedStatusCodes:
+      - 401
   - name: musiques-incongrues.net - simbertier
     url: https://simbertier.musiques-incongrues.net
   - name: musiques-incongrues.net - zeitgeist
