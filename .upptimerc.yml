@@ -28,6 +28,12 @@ sites:
   - name: mazemod.org
     url: https://www.mazemod.org
 
+  # musiqueapproximative.net
+  - name: musiqueapproximative.net
+    url: https://www.musiqueapproximative.nets
+  - name: musiqueapproximative.net - radio
+    url: https://radio.musiqueapproximative.net
+
   # parishq.net
   - name: parishq.net
     url: https://parishq.net
