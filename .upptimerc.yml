@@ -8,6 +8,8 @@ sites:
     url: https://docker.pastis-hosting.net
     expectedStatusCodes:
       - 404
+  - name: web.pastis-hosting.net
+    url: https://web.pastis-hosting.net
 
 status-website:
   cname: status.pastis-hosting.net
