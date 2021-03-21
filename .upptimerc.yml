@@ -24,6 +24,14 @@ sites:
   - name: www.arrachetoiunoeil.com
     url: https://www.arrachetoiunoeil.com
 
+  # mazemod.org
+  - name: www.mazemod.org
+    url: https://www.mazemod.org
+
+  # parishq.net
+  - name: www.parishq.net
+    url: https://www.parishq.net
+
 status-website:
   cname: status.pastis-hosting.net
   theme: light
