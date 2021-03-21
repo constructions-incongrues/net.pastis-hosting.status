@@ -30,7 +30,7 @@ sites:
 
   # parishq.net
   - name: parishq.net
-    url: https://www.parishq.net
+    url: https://parishq.net
   - name: parishq.net - computertruck
     url: https://computertruck.parishq.net
   - name: parishq.net - divag
