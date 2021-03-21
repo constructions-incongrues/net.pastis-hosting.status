@@ -6,7 +6,8 @@ repo: net.pastis-hosting.status # Your GitHub repository name
 sites:
   - name: docker.pastis-hosting.net
     url: https://docker.pastis-hosting.net
-
+    expectedStatusCodes:
+      - 404
 
 status-website:
   cname: status.pastis-hosting.net
