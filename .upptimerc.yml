@@ -1,15 +1,24 @@
-# Change these first
+# Repository
 owner: constructions-incongrues # Your GitHub username
 repo: net.pastis-hosting.status # Your GitHub repository name
 
-# Add your sites here
+# Endpoints
 sites:
+  # pastis-hosting.net
   - name: docker.pastis-hosting.net
     url: https://docker.pastis-hosting.net
     expectedStatusCodes:
       - 404
+  - name: portainer.pastis-hosting.net
+    url: https://portainer.pastis-hosting.net
+  - name: traefik.pastis-hosting.net
+    url: https://traefik.pastis-hosting.net
   - name: web.pastis-hosting.net
     url: https://web.pastis-hosting.net
+
+  # arrachetoiunoeil.com
+  - name: www.arrachetoiunoeil.com
+    url: https://www.arrachetoiunoeil.com
 
 status-website:
   cname: status.pastis-hosting.net
