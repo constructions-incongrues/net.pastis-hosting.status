@@ -28,6 +28,18 @@ sites:
   - name: mazemod.org
     url: https://www.mazemod.org
 
+  # musiques-incongrues.net
+  - name: musiques-incongrues.net
+    url: https://www.musiques-incongrues.net
+  - name: musiques-incongrues.net - data
+    url: https://data.musiques-incongrues.net
+  - name: musiques-incongrues.net - manager2000
+    url: https://manager2000.musiques-incongrues.net
+  - name: musiques-incongrues.net - simbertier
+    url: https://simbertier.musiques-incongrues.net
+  - name: musiques-incongrues.net - zeitgeist
+    url: https://zeitgeist.musiques-incongrues.net
+
   # musiqueapproximative.net
   - name: musiqueapproximative.net
     url: https://www.musiqueapproximative.net
