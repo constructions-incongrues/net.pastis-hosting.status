@@ -9,27 +9,27 @@ assignees:
 # Endpoints
 sites:
   # pastis-hosting.net
-  - name: docker.pastis-hosting.net
+  - name: pastis-hosting.net - docker
     url: https://docker.pastis-hosting.net
     expectedStatusCodes:
       - 404
-  - name: portainer.pastis-hosting.net
+  - name: pastis-hosting.net - portainer
     url: https://portainer.pastis-hosting.net
-  - name: traefik.pastis-hosting.net
+  - name: pastis-hosting.net - traefik
     url: https://traefik.pastis-hosting.net
-  - name: web.pastis-hosting.net
+  - name: pastis-hosting.net - web
     url: https://web.pastis-hosting.net
 
   # arrachetoiunoeil.com
-  - name: www.arrachetoiunoeil.com
+  - name: arrachetoiunoeil.com
     url: https://www.arrachetoiunoeil.com
 
   # mazemod.org
-  - name: www.mazemod.org
+  - name: mazemod.org
     url: https://www.mazemod.org
 
   # parishq.net
-  - name: www.parishq.net
+  - name: parishq.net
     url: https://www.parishq.net
 
 status-website:
