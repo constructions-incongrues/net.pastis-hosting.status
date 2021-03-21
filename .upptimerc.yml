@@ -2,6 +2,10 @@
 owner: constructions-incongrues # Your GitHub username
 repo: net.pastis-hosting.status # Your GitHub repository name
 
+# Assignees
+assignees:
+  - trivoallan
+
 # Endpoints
 sites:
   # pastis-hosting.net
@@ -23,10 +27,7 @@ sites:
 status-website:
   cname: status.pastis-hosting.net
   theme: light
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Pastis Hosting
-  introTitle: TODO
-  introMessage: TOO
   navbar:
     - title: Status
       href: /
