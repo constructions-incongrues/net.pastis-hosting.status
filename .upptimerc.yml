@@ -31,6 +31,15 @@ sites:
   # parishq.net
   - name: parishq.net
     url: https://www.parishq.net
+  - name: parishq.net - computertruck
+    url: https://computertruck.parishq.net
+  - name: parishq.net - divag
+    url: https://divag.parishq.net
+  - name: parishq.net - gallery
+    url: https://gallery.parishq.net
+  - name: parishq.net - labitabertier
+    url: https://labitabertier.parishq.net
+
 
 status-website:
   cname: status.pastis-hosting.net
