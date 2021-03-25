@@ -27,7 +27,6 @@ sites:
   # daheardit-records.net
   - name: daheardit-records.net - api
     url: https://api.daheardit-records.net
-  # daheardit-records.net
   - name: daheardit-records.net - www
     url: https://www.daheardit-records.net
 
@@ -56,6 +55,18 @@ sites:
     url: https://quickoschantenoel.musiqueapproximative.net
   - name: musiqueapproximative.net - radio
     url: https://radio.musiqueapproximative.net
+
+  # ilmanquedesmots.fr
+  - name: ilmanquedesmots.fr - www
+    url: https://www.ilmanquedesmots.fr
+  - name: ilmanquedesmots.fr - enlivrezvous
+    url: https://enlivrezvous.ilmanquedesmots.fr
+  - name: ilmanquedesmots.fr - grandirdansdeschamps
+    url: https://grandirdansdeschamps.ilmanquedesmots.fr
+
+  # leseditionsduchevet.fr
+  - name: www.leseditionsduchevet.fr
+    url: https://www.leseditionsduchevet.fr
 
   # ouiedire.net
   - name: www.ouiedire.net
