@@ -24,6 +24,13 @@ sites:
   - name: arrachetoiunoeil.com
     url: https://www.arrachetoiunoeil.com
 
+  # daheardit-records.net
+  - name: daheardit-records.net - api
+    url: https://api.daheardit-records.net
+  # daheardit-records.net
+  - name: daheardit-records.net - www
+    url: https://www.daheardit-records.net
+
   # mazemod.org
   - name: mazemod.org
     url: https://www.mazemod.org
@@ -49,6 +56,10 @@ sites:
     url: https://quickoschantenoel.musiqueapproximative.net
   - name: musiqueapproximative.net - radio
     url: https://radio.musiqueapproximative.net
+
+  # ouiedire.net
+  - name: www.ouiedire.net
+    url: https://www.ouiedire.net
 
   # parishq.net
   - name: parishq.net
