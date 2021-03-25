@@ -28,7 +28,7 @@ sites:
   - name: daheardit-records.net - api
     url: https://api.daheardit-records.net
     expectedStatusCodes:
-      - 404
+      - 401
   - name: daheardit-records.net - www
     url: https://www.daheardit-records.net
 
