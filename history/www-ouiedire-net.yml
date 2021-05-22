@@ -1,7 +1,7 @@
 url: https://www.ouiedire.net
-status: up
-code: 200
-responseTime: 1165
-lastUpdated: 2021-05-21T23:12:21.764Z
+status: down
+code: 500
+responseTime: 256
+lastUpdated: 2021-05-22T07:12:26.775Z
 startTime: Thu Mar 25 2021 14:25:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
