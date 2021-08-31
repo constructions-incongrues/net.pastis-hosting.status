@@ -22,7 +22,7 @@
     "url": "https://portainer.pastis-hosting.net",
     "icon": "https://favicons.githubusercontent.com/portainer.pastis-hosting.net",
     "slug": "pastis-hosting-net-portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,7 +228,7 @@
     "uptimeYear": "100.00%",
     "time": 1347,
     "timeDay": 1395,
-    "timeWeek": 1283,
+    "timeWeek": 1276,
     "timeMonth": 1316,
     "timeYear": 1347,
     "dailyMinutesDown": {}
